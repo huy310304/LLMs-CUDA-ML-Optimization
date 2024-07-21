@@ -1,4 +1,4 @@
-# gpu-profiling
+# LLMs-CUDA-ML-Optimization
 
 ### Research Focus: 
 Compare the performance of a PyTorch machine learning model and a CUDA machine learning model generated using LLMs (Large Language Models) to evaluate the optimization capabilities of LLMs in generating CUDA code for machine learning tasks, identify any limitations, and determine areas for improvement.
